@@ -19,7 +19,7 @@ metadata:
     alpha.dockerimage-port: 8081
 parent:
   id: python
-  registryUrl: 'https://a50e-83-59-144-150.ngrok-free.app'
+  registryUrl: 'https://3990-83-59-144-150.ngrok-free.app'
   version: 2.1.0
 components:
   - name: image-build
